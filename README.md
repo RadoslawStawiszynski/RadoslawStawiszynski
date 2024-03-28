@@ -3,7 +3,9 @@
 ## A passionate programmer from Poland delving into the realms of AI and Python.
 
 \+ Dedicated and results-oriented Computer Science student with a passion for exploring diverse programming languages, honing algorithmic skills, and delving into code repositories.
+
 \+ My primary goal is to secure employment on a B2B contract basis, applying my expertise to real-world projects.
+
 \+ I proactively seek advice from seasoned IT professionals and leverage online resources to enhance my problem-solving abilities. My commitment lies in maintaining simplicity in both my coding style and the tasks I undertake, ensuring efficient and effective outcomes.
 
 - 🌍  I'm based in Poland
