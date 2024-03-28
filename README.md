@@ -2,7 +2,7 @@
 
 <h3 align="center">A passionate programmer from Poland delving into the realms of AI and Python.</h3>
 
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" />
+<img align="right" alt="Coding" width="400" src="https://media1.tenor.com/m/zn8iyusePtgAAAAC/joy.gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=RadoslawStawiszynski&label=Profile%20views&color=0e75b6&style=flat" alt="RSpro" /> </p>
 
@@ -31,10 +31,6 @@
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/RadoslawStawiszynski" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/rados%C5%82aw-stawiszy%C5%84ski-2643b6251/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=RadoslawStwaiszynski&show_icons=true&locale=en" alt="RadoslawStwaiszynski." /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RadoslawStwaiszynski&" alt="RadoslawStwaiszynski" /></p>
 
 ### Badges
 
