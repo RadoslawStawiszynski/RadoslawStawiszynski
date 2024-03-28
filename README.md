@@ -2,15 +2,17 @@
 
 ## A passionate programmer from Poland delving into the realms of AI and Python.
 
-\+ Dedicated and results-oriented Computer Science student with a passion for exploring diverse programming languages, honing algorithmic skills, and delving into code repositories. + My primary goal is to secure employment on a B2B contract basis, applying my expertise to real-world projects. + I proactively seek advice from seasoned IT professionals and leverage online resources to enhance my problem-solving abilities. My commitment lies in maintaining simplicity in both my coding style and the tasks I undertake, ensuring efficient and effective outcomes.
+\+ Dedicated and results-oriented Computer Science student with a passion for exploring diverse programming languages, honing algorithmic skills, and delving into code repositories.
+\+ My primary goal is to secure employment on a B2B contract basis, applying my expertise to real-world projects.
+\+ I proactively seek advice from seasoned IT professionals and leverage online resources to enhance my problem-solving abilities. My commitment lies in maintaining simplicity in both my coding style and the tasks I undertake, ensuring efficient and effective outcomes.
 
 - 🌍  I'm based in Poland
 - 📫 How to reach me \*\*radoslaw.stawiszynski @ gmail.com\*\*
 - 🧠  I’m currently learning \*\*REACT / Vue\*\*
 - 🔭 I’m currently working on \*\*AWS & SQL\*\*
-- 💬 Ask me about **Python programs**
+- 💬 Ask me about \*\*Python programs\*\*
 - 🤝  I'm open to collaborating on \*\*Python & AI\*\*
-- ⚡  Fun fact \*\*I am pixel perfect developer\*\*### Skills
+- ⚡  Fun fact \*\*I am pixel perfect developer\*\*
 
 ### Skills
 
